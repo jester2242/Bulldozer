@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>AICorporation.Bulldozer.BulldozerBuilderLibrary</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Templates\CSharp\" />
+    <Folder Include="Templates\FSharp\" />
+    <Folder Include="Templates\VBDotNet\" />
+    <Folder Include="Templates\SQL Server\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="150.18208.0" />
+    <PackageReference Include="System.Collections.Immutable" Version="1.7.0" />
+  </ItemGroup>
+
+</Project>

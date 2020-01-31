@@ -1,0 +1,12 @@
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\bin\Debug\Bulldozer.exe.config
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\bin\Debug\Bulldozer.exe
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\bin\Debug\Bulldozer.pdb
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\bin\Debug\BulldozerBuilder.dll
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\bin\Debug\BulldozerBuilder.pdb
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\Bulldozer.csprojAssemblyReference.cache
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\AICorporation.Bulldozer.WindowsClient.Main.resources
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\AICorporation.Bulldozer.WindowsClient.Properties.Resources.resources
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\Bulldozer.csproj.GenerateResource.cache
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\Bulldozer.csproj.CopyComplete
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\Bulldozer.exe
+C:\Users\simonc\source\repos\Bulldozer\Bulldozer\obj\Debug\Bulldozer.pdb

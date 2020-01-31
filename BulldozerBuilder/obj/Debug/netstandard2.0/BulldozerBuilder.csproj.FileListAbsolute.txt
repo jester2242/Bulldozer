@@ -1,0 +1,8 @@
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\bin\Debug\netstandard2.0\BulldozerBuilder.deps.json
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\bin\Debug\netstandard2.0\BulldozerBuilder.dll
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\bin\Debug\netstandard2.0\BulldozerBuilder.pdb
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\obj\Debug\netstandard2.0\BulldozerBuilder.csprojAssemblyReference.cache
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\obj\Debug\netstandard2.0\BulldozerBuilder.AssemblyInfoInputs.cache
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\obj\Debug\netstandard2.0\BulldozerBuilder.AssemblyInfo.cs
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\obj\Debug\netstandard2.0\BulldozerBuilder.dll
+C:\Users\simonc\source\repos\Bulldozer\BulldozerBuilder\obj\Debug\netstandard2.0\BulldozerBuilder.pdb
